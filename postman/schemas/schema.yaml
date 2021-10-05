@@ -3,7 +3,7 @@ info:
   version: '1.0.0'
   title: 'Slack Web API'
 servers:
-  - url: 'localhost:3000'
+  - url: 'localhost'
 paths:
   /user:
     get:
